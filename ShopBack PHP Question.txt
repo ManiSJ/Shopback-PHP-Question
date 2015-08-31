@@ -5,23 +5,18 @@ Joel and Henry are playing a game. They have N balls numbered from 0 to N−1.He
 CONSTRAINTS 
 
 1≤T≤50
-
 1≤N≤100000
-
 0≤K<N
 
 SAMPLE INPUT
 
 2
-
 3 1
-
 5 2
 
 SAMPLE OUTPUT
 
 2
-
 4
 
 EXPLANATION
